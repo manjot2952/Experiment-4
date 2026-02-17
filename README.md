@@ -1,50 +1,45 @@
-# Experiment-4
+# 🚀 Experiment-4
 
-This repository contains two React projects:
+This repository contains two React projects developed using **React + Vite**:
 
-- **4.1 – Theme Toggle Profile Card**
-- **4.2 – Redux Counter Application**
-
-Both projects are built using **React + Vite**.
+- 🔹 4.1 – Theme Toggle Profile Card
+- 🔹 4.2 – Redux Counter Application
 
 ---
 
-# 📁 Folder Structure
-
-
+# 📂 Project Structure
 ---
 
 # 🔹 4.1 – Theme Toggle Profile Card
 
 ## 📌 Description
 
-This project demonstrates:
+A React application demonstrating:
 
-- React Functional Components
 - useState Hook
-- Conditional Rendering
 - Light/Dark Theme Toggle
-- Dynamic Styling
+- Conditional Styling
+- Dynamic UI Updates
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
-- Displays Profile Card
-- Shows Name and Role
-- Shows Current Theme
+- Profile Card UI
+- Displays Name & Role
+- Theme Indicator
 - Switch Theme Button
-- Dynamic Background & Card Color Change
+- Dynamic Background Change
 
 ---
 
 ## 🖼 Screenshots
 
-### Light Theme
-![Light Theme](screenshots/4.1-light.png)
+### 🌞 Light Theme
+![Light Theme](screenshots/Screenshot 2026-02-17 115353.png)
 
-### Dark Theme
-![Dark Theme](screenshots/4.1-dark.png)
+### 🌙 Dark Theme
+![Dark Theme](screenshots/Screenshot 2026-02-17 115402.png)
 
 ---
 
@@ -61,53 +56,39 @@ This project demonstrates:
 
 ## 📌 Description
 
-This project demonstrates Redux state management using Redux Toolkit.
-
-It includes:
-
-- Global State Management
-- Redux Slice
-- useSelector Hook
-- useDispatch Hook
+A Redux-based counter application demonstrating global state management using **Redux Toolkit**.
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
-- Displays Counter Value
+- Counter Display
 - Increment Button
 - Decrement Button
 - Reset Button
-- Global State handled using Redux
+- Global State Management
 
 ---
 
 ## 🖼 Screenshots
 
-### Initial State
-![Counter Initial](screenshots/4.2-initial.png)
+### 🟢 Initial State
+![Initial Counter](screenshots/Screenshot 2026-02-17 123619.png)
 
-### After Increment
-![Counter Increment](screenshots/4.2-increment.png)
+### 🔼 After Increment
+![Increment Counter](screenshots/Screenshot 2026-02-17 123625.png)
 
-### After Decrement
-![Counter Decrement](screenshots/4.2-decrement.png)
-
----
-
-## 🛠 Technologies Used
-
-- React
-- Vite
-- Redux Toolkit
-- React-Redux
+### 🔽 After Decrement
+![Decrement Counter](screenshots/Screenshot 2026-02-17 123634.png)
 
 ---
 
-# ⚙️ Installation & Setup
+# ⚙️ Installation Guide
 
-## Clone Repository
+## 🔹 Clone Repository
 
 ```bash
 git clone https://github.com/manjot2952/Experiment-4.git
 cd Experiment-4
+
+
